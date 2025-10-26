@@ -6,5 +6,6 @@
   "author": "niefeng712",
   "type": "chat-plugin",
   "main": "index.js",
-  "enabled": true
+  "enabled": true,
+  "api": ["chat"]
 }
