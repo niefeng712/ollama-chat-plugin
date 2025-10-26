@@ -1,0 +1,9 @@
+{
+  "name": "ollama-chat-plugin",
+  "version": "1.0.0",
+  "description": "SillyTavern plugin to use Ollama Qwen2 model",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
